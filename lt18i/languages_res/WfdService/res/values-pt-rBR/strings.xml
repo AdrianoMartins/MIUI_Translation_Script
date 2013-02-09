@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Serviço WFD</string>
+    <string name="wfd_notification_title">Tela WiFi ativada</string>
+    <string name="wfd_notification_text">Toque para desconectar</string>
+</resources>

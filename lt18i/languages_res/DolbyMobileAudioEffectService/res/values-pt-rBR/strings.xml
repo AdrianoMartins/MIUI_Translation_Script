@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Efeitos de Áudio Dolby Mobile</string>
+    <string name="remote_service_started">Serviço remoto iniciado</string>
+    <string name="remote_service_stopped">Serviço remoto terminado</string>
+    <string name="remote_service_label">Serviço Remoto de Exemplo</string>
+    <string name="dm_audio_effect_controller">Painel de Controle Dolby Mobile</string>
+    <string name="remote_service_connected">Conectado a um serviço remoto</string>
+    <string name="remote_service_disconnected">Desconectado de um serviço remoto</string>
+    <string name="remote_call_failed">Falha ao conectar ao serviço remoto</string>
+</resources>
